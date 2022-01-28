@@ -60,10 +60,7 @@ or Simply Signup
 
 
 ## Screenshots
-
-![Web Screenshot/ GIF](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
+![frt_gif_demo](https://user-images.githubusercontent.com/25526638/151603306-bbdced00-8f29-49af-ab94-62372486c194.gif)
 
 ## Demo
-- [Local :](https://youtu.be/c789K-fse6k "Youtube Demo")
-- [Cloud :](https://azure.com "Azure Deployment")
+https://user-images.githubusercontent.com/25526638/151603241-caf49544-915b-4560-becf-0cd32e69944c.mp4
