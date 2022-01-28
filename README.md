@@ -18,8 +18,9 @@ This modlues is also directly under control of the admin modlue though the user 
 - Update Profile
 - Book Appointments
 - View Appointment History : & to cancel the Appointments
+
 ## Deployment
-The project is deployed on Microsoft Azure
+The project is deployed on Microsoft Azure **Visit Link**
 
 
 ## Running Tests
